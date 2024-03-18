@@ -1,5 +1,7 @@
 ﻿# Machine-Learning-Course-Project
 
+See the Example [here](https://atomik-k.github.io/Machine-Learning-Course-Project/)
+
 Download csv-file with datamain.py into same folder. HTML file is created into same directory by running datamain.py. HTML-file in this repo is just to showcase the project.
 - Folium
 - Pandas
